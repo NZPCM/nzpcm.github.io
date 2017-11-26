@@ -1,2 +1,2 @@
 User-agent: *
-sitemap: http://www.nzpcm.co.nz/sitemap.xml
+sitemap: http://nzpcm.co.nz/sitemap.xml
