@@ -1002,7 +1002,7 @@ h3.agile_heading.two {
 
 .banner_bottom_w3ls_info {
 	margin: 0 auto;
-	text-align: center;
+	/*text-align: center;*/
 	width: 60%;
 }
 
@@ -1091,8 +1091,8 @@ h3.agile_heading.two {
 }
 
 .w3ls-markets-grid:hover .icon-left {
-	webkit-animation: fa-spin 3s infinite linear;
-	animation: fa-spin 3s infinite linear;
+	/*webkit-animation: fa-spin 3s infinite linear;
+	animation: fa-spin 3s infinite linear;*/
 	background: #ff3c41;
 	border: 1px solid #ff3c41;
 }
